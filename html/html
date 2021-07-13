@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+<body>
+<form action="action_form.php" method="POST">
+ <p>you stupid?:</p> 
+  <input type="text" name="email">
+  <input type="submit" name="podpisatsya" value="ok">
+  <input name="reset" type="reset" value="clear">
+</form>
+</body>
+</html>
